@@ -21,3 +21,4 @@ Maréu est une application de gestion de réunion.
 ### 5. Synchroniser le projet avec Gradle si besoin en cliquant sur l'icône éléphant.
 ### 6. Compiler le projet en cliquant sur l'icône marteau.
 ### 7. Si besoin, séléctionner un appareil android et lancer le projet en cliquant sur l'icône flêche verte.
+![mareu1.png](mareu1.png)
